@@ -4,14 +4,18 @@
 <a href="#readme-top">back to top</a>
 
 ![йоу](https://avatars.mds.yandex.net/i?id=cf2ad8e5757365856d20016d6c299443_l-5232644-images-thumbs&n=13)
-[![йоу](https://avatars.mds.yandex.net/i?id=cf2ad8e5757365856d20016d6c299443_l-5232644-images-thumbs&n=13)](readme-top)
-
+[![йоу](https://avatars.mds.yandex.net/i?id=cf2ad8e5757365856d20016d6c299443_l-5232644-images-thumbs&n=13)](#)
+😹
 # Заголовок первого уровня
 ## Заголовок второго уровня
 ### Заголовок третьего уровня
 #### Заголовок четвёртого уровня
 ##### Заголовок пятого уровня
 ###### Заголовок шестого уровня
+
+[comment]: # (Comment)
+[//]: # (Comment)
+<!-- Comment -->
 
 *курсив*  
 _курсив_
@@ -47,4 +51,11 @@ print("Привет, мир!")
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
+- [x] Изучить Markdown
+
+|pivo|vodka|kon'yak|
+|---:|:------:|---|
+|da|net|<img src="https://avatars.mds.yandex.net/i?id=ff1a8fcfa05c04032fc2e2e1c8c00229_l-5749428-images-thumbs&n=13](https://repository-images.githubusercontent.com/296434766/53cd5300-fd1f-11ea-837a-d35ec97b9502)" width="100" />|
+|da|net||
+|net|da||
 
