@@ -4,7 +4,6 @@
 <a href="#readme-top">back to top</a>
 
 ![йоу](https://avatars.mds.yandex.net/i?id=cf2ad8e5757365856d20016d6c299443_l-5232644-images-thumbs&n=13)
-[![йоу](https://avatars.mds.yandex.net/i?id=cf2ad8e5757365856d20016d6c299443_l-5232644-images-thumbs&n=13)](#)
 😹
 # Заголовок первого уровня
 ## Заголовок второго уровня
